@@ -1,2 +1,3 @@
-# dyno
-my first game
+# projects
+
+https://rolling-scopes-school.github.io/lisavna-JSFEPRESCHOOL/portfolio/
