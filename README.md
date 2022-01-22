@@ -1,2 +1,1 @@
-# dyno
-my first game
+my first steps
